@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vinaykolkani
+- 👋 Hi, I’m @vinaykollikani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me insta : @vinaykr_7
 
